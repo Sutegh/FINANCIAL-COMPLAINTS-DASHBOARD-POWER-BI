@@ -38,4 +38,5 @@ Visualization: Creating clear and intuitive visualizations in Power BI to convey
 
 
 
-**Expected Outcomes**: The Power BI dashboard will empower the financial institution to track, analyse, and address customer complaints more efficiently, leading to improved customer satisfaction, compliance, and operational effectiveness. This project aims to provide a holistic view of the complaint landscape and promote data-driven decision-making within the organization.
+# Expected Outcomes: 
+The Power BI dashboard will empower the financial institution to track, analyse, and address customer complaints more efficiently, leading to improved customer satisfaction, compliance, and operational effectiveness. This project aims to provide a holistic view of the complaint landscape and promote data-driven decision-making within the organization.
